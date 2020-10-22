@@ -1,1 +1,1 @@
-# my-hacktoberfest
+# Hacktoberfest project
