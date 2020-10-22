@@ -20,6 +20,12 @@ twink1 = input("I like idols who are a bit mischievous and are bright and flashy
 
 akatsuki1 = input("I like idols who are able to maintain an air of gravity in public.")
 
+valkyrie1 = input("I like idols who are artistic and who like capitalizing their artistic attributes.")
+
+switch1 = input("I like idols who strive to be unique.")
+
+mam1 = input("I like idols who like flashy performances.")
+
 trickstar2 = input("I prefer idols who are comfortable when interacting with their audience.")
 
 fine2 = input("I like idols who are polished and have a strong presence in the idol industry.")
@@ -36,15 +42,21 @@ twink2 = input("I like idols who are able to play by ear.")
 
 akatsuki2 = input("I like idols who do more traditional, cultural work.")
 
+valkyrie2 = input("I like idols who have a distinct perspective of the world around them.")
 
-knb_final = int(knb1) + int(knb2)
-sa_final = int(sa1) + int(sa2)
-tg_final = int(tg1)+ int(tg2)
+switch2 = input("I like idols who like to showcase the unifying power of their worldview.")
+
+mam2 = input("I prefer to work with an idol that works solo.")
+
+
+trickstar_final = int(trickstar1) + int(trickstar2)
+fine_final = int(fine1) + int(fine2)
+undead_final = int(undead1)+ int(undead2)
 
 print()
 
-if knb_final > sa_final and knb_final > tg_final:
-  print("You should watch Kuroke No Basuke! It's a really nice basketball anime :)")
+if trickstar_final > fine_final and trickstar_final > undead_final and trickstar_final > knights_final and trickstar_final > ryuseitai_final and trickstar_final > rabits_final and trickstar_final > twink_final and trickstar_final > akatsuki final and trickstar_final > valkyrie_final and trickstar_final > switch_final and trickstar_final > mam_final:
+  print("You should work for Trickstar! This idol group consista of 4 members: Hidaka Hokuto, Isara Mao, Akehoshi Subaru and Yuuki Makoto! Their theme colour is orange and their fanservice is both dazzling and comfortably personal with their audience.")
 elif sa_final > tg_final:
   print("You should watch Spirited Away! It's a touching movie that never fails to make me cry no matter how many times I watch it T_T")
 else:
