@@ -1,4 +1,4 @@
-print("Which Yumenosaki Ebnsemble Stars! unit will you work for?")
+print("Which Yumenosaki Ensemble Stars! unit will you work for?")
 print()
 print("Welcome to Yumenosaki Academy! The units are currently looking for producers, and based on your choices, you will be allocated to one of the idol groups in Yumenosaki academy.")
 print("Please respond with a number 1 - 5, where 1 is strongly disagree and 5 is strongly agree.")
